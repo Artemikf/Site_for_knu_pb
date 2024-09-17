@@ -8,7 +8,7 @@ body {
 }
 
 /* Прямоугольник */
-.center-box {
+.center-box-home {
     background-color: #1e2126;
     color: white;
     width: 1300px;
@@ -22,7 +22,7 @@ body {
                 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
-.center-box p {
+.center-box-home p {
     font-size: 21px;
     text-align: center;
 }
@@ -30,6 +30,13 @@ body {
 ul {
     color: white;
     font-size: 21px;
+}
+
+.btn-outline-primary {
+    font-size: 21px;
+    height: 85px;
+    width: 200px;
+    margin-top: 45px;
 }
 
 h1 {
